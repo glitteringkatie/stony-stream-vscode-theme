@@ -4,7 +4,7 @@
     "description": "A theme based on Matt Wilson's colors in Paper Girls",
     "version": "0.0.1",
     "publisher": "glitteringkatie",
-    "respository": "glitteringkatie/stony-stream-theme",
+    "respository": "https://github.com/glitteringkatie/stony-stream-vscode-theme",
     "engines": {
         "vscode": "^1.25.0"
     },
