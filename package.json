@@ -1,0 +1,23 @@
+{
+    "name": "stony-stream-theme",
+    "displayName": "Stony Stream",
+    "description": "A theme based on Matt Wilson's colors in Paper Girls",
+    "version": "0.0.1",
+    "publisher": "glitteringkatie",
+    "respository": "glitteringkatie/stony-stream-theme",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stony Stream",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stony Stream-color-theme.json"
+            }
+        ]
+    }
+}
